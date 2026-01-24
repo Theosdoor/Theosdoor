@@ -1,189 +1,71 @@
-## Hi there 👋 I'm Theo - a Master’s student looking to specialise in mechanistic interpretability of neural networks
+<h1 align="center">Hi 👋, I'm Theo Farrell</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=MSci+Student+%40+Durham+University;Mechanistic+Interpretability+Researcher;Durham+AI+Safety+Initiative;" alt="Typing SVG" /></a>
+</h3>
 
-<!--
-**Theosdoor/Theosdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Master's student specialising in mechanistic interpretability of neural networks at Durham University. Founded <a href="https://durhamaisafety.github.io/">Durham's AI Safety Initiative</a>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📄 Publications
 
-### I currently study Durham University with a First Class Honours degree
-> MSci Natural Sciences (Computer Science & Philosophy) - Average grade: **1st** 
+**[Order by Scale: Relative-Magnitude Relational Composition in Attention-Only Transformers](https://openreview.net/forum?id=vWRVzNtk7W)**  
+*Farrell, Theo, Patrick Leask, and Noura Al Moubayed*  
+NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models  
+🔍 Investigating non-linear feature representations in transformers using relative magnitude-based composition
 
-<!-- ## Contents:
-This page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
-1. [The technologies I have learnt over the years 💻](#my-technology-stack-hover-over-for-names)
-2. [University Performance and Projects 👩‍💻](#my-university-degree-)
-3. [Career Breakdown 👷‍♀️](#my-career-)
-4. [Prior Education 📚](#prior-education-)
+📊 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ)
 
-If you would like to find out anything more (or less, as this page is quite detailed) about me / get in contact, please check out my LinkedIn:
+---
 
-<a href="https://www.linkedin.com/in/lauren-stumpf-18a015220/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a> -->
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-# My Technical Skills (hover over for names):
-### Fluent:
-*i.e I've accomplished projects using these*
-<center><div>
-    <img src="https://img.icons8.com/color/96/000000/python.png" title="Python"/>
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
-    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
-    <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="96" title="Numpy"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="96" title="scikit-learn"/>
-    <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="Unity"/>  
-</div></center>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
+  ![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell&logoColor=5D4F8D)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+- 🤖 &nbsp;
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow&logoColor=FF6F00)
+  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
+  ![scikit--learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
+  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas&logoColor=150458)
+  ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-333333?style=flat&logo=weightsandbiases&logoColor=FFBE00)
+  ![matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat)
+- 🛠️ &nbsp;
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=008080)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)
+- 📱 &nbsp;
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
+  ![AR/VR](https://img.shields.io/badge/-AR%2FVR-333333?style=flat)
 
-### Familiar:
-*i.e I've written some amount of my own code in these*
-<center><div>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-    <img src="https://img.icons8.com/fluency/48/000000/c.png" title="C"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/latex.png" title="LaTeX"/>
-    <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width="96" title="Tensorflow"/>
-</div></center>
+---
 
+### 📊 GitHub Stats
 
-### Basic:
-*i.e I've attened lessons on these*
-<center><div>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
-    <img src="https://img.icons8.com/color/48/000000/haskell.png" title="Haskell"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1200px-WebGL_Logo.svg.png" width="48" title="WebGL"/>
-</div></center>
+<a href="https://github.com/theosdoor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theosdoor&theme=buefy&layout=compact" />
+</a>
 
-# My Undergraduate Degree 🎓:
-I am studying Computer Science and Philosophy and will graduate in 2026. 
-## Modules: 
-  > Reinforcement Learning  
-  > Computer Vision  
-  > Deep Learning  
-  > Natural Language Processing  
-  > Individual Project  
+---
 
-## Third Year 🥉 - 1st:
-> Natural Sciences' Prize for Outstanding Level 3 Achievement awarded by the Board of Examiners  
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<!-- ### BSc Dissertation/Project:
-* Deep Ensembled Truncated Quantile Critic with Recurrent Networks (DETRN+) - [R2D4-RL](https://github.com/Lauren-Stumpf/dissertation): 84, 11th in year. [Tensorflow]
-   > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_pick_and_place_video.gif" width="250" height="250"/>
-   > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_push_video.gif" width="250" height="250"/>
-   > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_reach_video.gif" width="250" height="250"/>
-   > <img src="https://github.com/Lauren-Stumpf/dissertation/blob/main/videos/fetch_slide_video.gif" width="250" height="250"/>
-    
-    > I supplement the sparse task reward with a dense task-independent intrinsic reward. I then research and combine the most appropriate recent state of the art namely ensemble learning, hindsight experience replay, D2RL, R2D2 with some novel practices and architecture such as a new data augmentation scheme and dropout layers. I produce a Deep Ensembled Truncated Quantile Critic with Recurrent Networks (defined in this paper). The final agent is extremely competent and surpasses the performance of all surveyed approaches. It is able to complete the three manipulation tasks inspite of the sparse and uninformative task reward. It is also able to generalise across environments. We also demonstrate some of the best practices to exploit a predominately intrinsic reward signal.
-  
-* Deep Learning - [StyleGAN2-ADA](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework): 100/100, 1st in year. [PyTorch]
-    > ![Gifdemo245](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/complete_1.png)
-    > 
-    >  The task was to generate realisitic and diverse images (using the FFHQ dataset) given severe hardware constraints and then to interpolate smoothly between these images. To do this, this paper proposes using a StyleGAN2 architecture in combination with an adaptive discriminator augmentation (ADA) mechanism trained on the FFHQ dataset. This mechanism passes the images shown to the discriminator through an augmentation pipeline and dynamically adjusts the strength of augmentation. 
-    >   
-    > ![inter_1](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_1.png)
-    > ![inter_2](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_2.png)
-    > ![inter_3](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_3.png)
-    > ![inter_4](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_4.png)
-    > ![inter_5](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_5.png)
-    > ![inter_6](https://github.com/Lauren-Stumpf/Deep-Learning-Coursework/blob/main/images/inter_6.png)
-
-
-* Reinforcement Learning - [TQC+D2RL](https://github.com/Lauren-Stumpf/Reinforcement_Learning_Coursework): 100, 1st in year. [PyTorch]
-    >![Gifdemo2](https://github.com/Lauren-Stumpf/Reinforcement_Learning_Coursework/blob/main/bipedal_walker_score%3D330.gif)
-    >
-    > We were tasked with creating a Reinforcement Learning agent to complete the Bipedal Walker gym environment. To do this, this paper surveyed and evaluated four different approaches (Twin Deep Deterministic Policy, Soft Actor Critic, Augmented Random Search and Truncated Quantile Critic) for the Bipedal Walker environment and distinguished Truncated Quantile Critic as the most advantageous. It focuses on performing a robust and comprehensive hyperparameter sweep (as initial trials indicated that all agents were very sensitive to hyperparameter choices) to find the hyperparameters most suitable for the Bipedal Walker environment. It then augmented the neural architecture by incorporating findings from D2RL. The resultant agent is able to solve both the BipedalWalker and BipedalWalkerHardcore environments.
-
-* Independent Reasearch Project - [advancing-SOTA-supermarios](https://github.com/Lauren-Stumpf/Independent_Project): 90, 1st in year. [Pytorch]
-    > ![Gifdemo1](https://github.com/Lauren-Stumpf/Independent_Project/blob/main/mario_video.gif)
-    > 
-    > During my Independent Project, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7. -->
-
-
-### Philosophy (17% of year):
-
-* Philosophical Issues in Contemporary Science - 70
-* Formal and Philosophical Logic - 84
-
-## Second Year 🥈 - 1st (80/100):
->Natural Sciences' Prize for Outstanding Level 2 Achievement awarded by the Board of Examiners.
-
-### Computer Science (67% of year):
-* Artificial Intelligence: 86
-* Programming Paradigms: 70
-* Data Science: 77, 
-* Theory of Computation: 78, top 10% in year
-
-### Philosophy (17% of year):
-
-* Analysis In Many Variables: 75
-* Analysis: 84
-
-## First Year 🥇 - 1st (86/100):
-Natural Sciences' Prize for Outstanding Level 1 Achievement awarded by the Board of Examiners.
-### Computer Science (33% of year):
-* Computation Thinking: 87
-* Computer Systems: 85
-
-### Mathematics (66% of year):
-* Linear Algebra I: 87 
-* Calculus I: 87
-* Foundations of Physics: 84
-
-## Activities and Societies:
-* Durham University Charity Kommittee (DUCK) 
-
-
-# My Career 💻:
-> For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/lauren-stumpf-18a015220/).
-
-
-## Caspian 
-Data Scientist 
-3-month internship optimizing financial risk management for Tier 1 Banks by automating complex processes using AI. 
-Key achievements and responsibilities:
- * Developed a formalised reinforcement learning research proposal and submitted to senior management for approval. 
- * Gained substantial understanding of state-of-the-art reinforcement learning algorithms and the corresponding theory, exploiting DeepMind online material.     
- * Implemented a clipped double Deep-Q Network with prioritized replay experience using TensorFlow and optimized the CDDQN neural network architecture. 
- * Achieved an 8% increase in balanced accuracy when compared to anomaly detection, clustering, and supervised learning models and facilitated the integration of the model into Caspian’s commercial software.
- * Used an Agile scrum development methodology and Agile tools (Bitbucket, Jira & Confluence).
-
-
-
-## Durham University - Sep 2020:
-> <img src="https://logos-download.com/wp-content/uploads/2020/06/Durham_University_Logo.png" height="96"/>
-
-* Computer Science Demonstrator / Teaching Assistant - 1 year:
-    * During my 3rd year, after having achieved 92 in Theory of Computation, I was recruited to lead three weekly practical groups teaching Models of Computation and Algorithms and Complexity. 
-
-## University of Surrey - Jun 2020:
-
-* Research Intern on ‘Next Generation Paper’ Research Project:
- 3-month placement in a £1.1 million funded, multidisciplinary project, investigating the future potential of paper and its relationship to the web by using augmented reality and printed electronics. 
-Key achievements and responsibilities: 
- * Independent study into the fundamental principles of semiconductor physics.
- * Theorised a mechanism for augmenting paper with light sensors that triggers digital links on a nearby smartphone. 
- * Developed a prototype that implemented this mechanism through transmitting a digital signal, which encoded which pages were on display, to a smartphone close by.  
- * Delivered a formal presentation to an audience of senior academics on design recommendations for this product and produced a written technical report. 
-
-
-# Prior Education 📚:
-## Holy Cross School, 2012 – 2018:
-* 6th Form Academic Scholar.
-* GCSEs: 10 A*s
-* A Levels:
-    * A* in Maths 
-    * A* in Further Maths  
-    * A* in Physics
-    * A* in Extended Project Qualification ('Do We Live in a Multiverse?') 
-
+<p align="center">
+<a href="https://linktr.ee/theofarrell"><img alt="Website" src="https://img.shields.io/badge/-Website-4A90E2?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/theo-farrell-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:theo.farrell99@outlook.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/theosdoor"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</p>
