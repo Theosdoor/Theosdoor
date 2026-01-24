@@ -51,13 +51,13 @@ NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
   ![AR/VR](https://img.shields.io/badge/-AR%2FVR-333333?style=flat)
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 
 <a href="https://github.com/theosdoor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theosdoor&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 ---
 
