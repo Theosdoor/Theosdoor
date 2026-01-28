@@ -23,12 +23,15 @@ NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models
 ### 🌟 Highlighted Projects
 
 **[Order by Scale](https://github.com/Theosdoor/order-by-scale)**  
+![Information flow visualization](https://raw.githubusercontent.com/Theosdoor/order-by-scale/main/figures/attn-flow.png)  
 Implementation of research on relative-magnitude relational composition in attention-only transformers. Investigates how neural networks learn to order sequences by numerical scale, with analysis of learned feature representations and attention mechanisms.
 
 **[Stance Classification](https://github.com/Theosdoor/stance-classification)**  
+![Classification comparison](https://raw.githubusercontent.com/Theosdoor/stance-classification/main/results/exp4_test_final.png)  
 NLP project implementing transformer-based models for detecting argumentative stances in text. Uses fine-tuned BERT models with custom preprocessing and evaluation frameworks for multi-class stance detection.
 
 **[Bipedal Walking with RL](https://github.com/Theosdoor/Bipedal-Walking-with-RL)**  
+![Hardcore agent demo](https://raw.githubusercontent.com/Theosdoor/Bipedal-Walking-with-RL/main/hardcore_env/hardcore-video,episode=959,score=326.gif)  
 Reinforcement learning implementation for training bipedal agents to walk. Uses PPO and A3C algorithms in PyTorch with custom reward functions and training visualizations.
 
 **[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)**  
