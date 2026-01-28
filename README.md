@@ -20,6 +20,36 @@ NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models
 
 ---
 
+### 🌟 Highlighted Projects
+
+**[Order by Scale](https://github.com/Theosdoor/order-by-scale)**  
+Implementation of research on relative-magnitude relational composition in attention-only transformers. Investigates how neural networks learn to order sequences by numerical scale, with analysis of learned feature representations and attention mechanisms.
+
+**[Stance Classification](https://github.com/Theosdoor/stance-classification)**  
+NLP project implementing transformer-based models for detecting argumentative stances in text. Uses fine-tuned BERT models with custom preprocessing and evaluation frameworks for multi-class stance detection.
+
+**[Bipedal Walking with RL](https://github.com/Theosdoor/Bipedal-Walking-with-RL)**  
+Reinforcement learning implementation for training bipedal agents to walk. Uses PPO and A3C algorithms in PyTorch with custom reward functions and training visualizations.
+
+**[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)**  
+Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, ant colony optimization) for the Traveling Salesman Problem with performance benchmarking.
+
+**[KNN vs Logistic Regression](https://github.com/Theosdoor/KNN-vs-Logistic-Regression)**  
+Comparison of K-Nearest Neighbors and Logistic Regression classifiers on various datasets, including implementations from scratch and performance analysis.
+
+**[EPQ Calculator](https://github.com/Theosdoor/EPQ_Calculator)**  
+My first major project, developed as part of my Extended Project Qualification (EPQ). A calculator application built to learn fundamental programming and UI design concepts.
+
+#### DAISI Projects
+
+**[Ghost Marks in the Machine](https://github.com/DurhamAISafety/ghost-marks-in-the-machine)**  
+Research project with Durham AI Safety Initiative investigating unlearning techniques in language models. Implements methods for removing specific knowledge from trained models and evaluates their effectiveness.
+
+**[Durham AI Safety Initiative Website](https://github.com/DurhamAISafety/durhamaisafety.github.io)**  
+Website for Durham's AI Safety Initiative, providing information about the organization, events, and research. Built with modern web technologies and maintained collaboratively / open-source.
+
+---
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -51,21 +81,12 @@ NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
   ![AR/VR](https://img.shields.io/badge/-AR%2FVR-333333?style=flat)
 
-<!-- ---
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/theosdoor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theosdoor&theme=buefy&layout=compact" />
-</a> -->
-
 ---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://linktr.ee/theofarrell"><img alt="Website" src="https://img.shields.io/badge/-Website-4A90E2?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/theo-farrell-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:theo.farrell99@outlook.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/theosdoor"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://linktr.ee/theofarrell"><img alt="Linktree" src="https://img.shields.io/badge/-Linktree-1B5E20?style=flat-square&logo=linktree&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/theo-farrell-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
 </p>
