@@ -4,17 +4,22 @@
 </h3>
 
 <p align="center">
-MSci student specialising in mechanistic interpretability of neural networks at Durham University. Founded <a href="https://durhamaisafety.github.io/">Durham's AI Safety Initiative</a>.
+MSci student specialising in mechanistic interpretability of neural networks at Durham University. Founded <a href="https://durhamaisafety.github.io/">Durham's AI Safety Initiative</a> (DAISI).
 </p>
 
 ---
 
-### 📄 Publications
+### 📄 Highlighted Publications
+
+
 
 **[Order by Scale: Relative-Magnitude Relational Composition in Attention-Only Transformers](https://openreview.net/forum?id=vWRVzNtk7W)**  
 *Farrell, Theo, Patrick Leask, and Noura Al Moubayed*  
 NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models  
-🔍 Investigating non-linear feature representations in transformers using relative magnitude-based composition
+
+**[Challenges of Evaluating LLM Safety for User Welfare](https://arxiv.org/abs/2512.10687)**  
+*Kempermann, Manon, Sai Suresh Macharla Vasu, Mahalakshmi Raveenthiran, Theo Farrell, and Ingmar Weber*  
+arXiv preprint arXiv:2512.10687 (2025)  
 
 📊 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ)
 
@@ -34,22 +39,24 @@ NLP project implementing transformer-based models for detecting argumentative st
 ![Hardcore agent demo](https://raw.githubusercontent.com/Theosdoor/Bipedal-Walking-with-RL/main/hardcore_env/hardcore-video,episode=959,score=326.gif)  
 Reinforcement learning implementation for training bipedal agents to walk. Uses PPO and A3C algorithms in PyTorch with custom reward functions and training visualizations.
 
-**[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)**  
-Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, ant colony optimization) for the Traveling Salesman Problem with performance benchmarking.
+---
 
-**[KNN vs Logistic Regression](https://github.com/Theosdoor/KNN-vs-Logistic-Regression)**  
-Comparison of K-Nearest Neighbors and Logistic Regression classifiers on various datasets, including implementations from scratch and performance analysis.
+### 📚 Other Projects
 
-**[EPQ Calculator](https://github.com/Theosdoor/EPQ_Calculator)**  
-My first major project, developed as part of my Extended Project Qualification (EPQ). A calculator application built to learn fundamental programming and UI design concepts.
+#### Solo Work
+- **[Cryptography Coursework](https://github.com/Theosdoor/Cryptography-Coursework)** - Implementation and analysis of cryptographic algorithms and protocols. Covers encryption techniques, security analysis, and practical applications.
+- **[Natural Computing Algorithms](https://github.com/Theosdoor/Natural-Computing-Algorithms)** - Exploration of bio-inspired and nature-based computational algorithms including genetic algorithms, neural networks, and swarm intelligence.
+- **[Image Processing](https://github.com/Theosdoor/Image-Processing)** - Computer vision and image processing techniques using OpenCV and Python. Includes filtering, edge detection, and image transformations.
+- **[Data Cleaning and Analysis](https://github.com/Theosdoor/Data-Cleaning-and-Analysis-Coursework)** - Data preprocessing, cleaning, and statistical analysis using pandas and Python. Demonstrates data wrangling and visualization techniques.
+- **[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)** - Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, ant colony optimization) for the Traveling Salesman Problem.
+- **[KNN vs Logistic Regression](https://github.com/Theosdoor/KNN-vs-Logistic-Regression)** - Comparison of K-Nearest Neighbors and Logistic Regression classifiers on various datasets, with implementations from scratch and performance analysis.
+- **[EPQ Calculator](https://github.com/Theosdoor/EPQ_Calculator)** - My first major project, developed as part of my Extended Project Qualification (EPQ). A calculator application built to learn fundamental programming and UI design concepts.
 
-#### DAISI Projects
-
-**[Ghost Marks in the Machine](https://github.com/DurhamAISafety/ghost-marks-in-the-machine)**  
-Research project with Durham AI Safety Initiative investigating unlearning techniques in language models. Implements methods for removing specific knowledge from trained models and evaluates their effectiveness.
-
-**[Durham AI Safety Initiative Website](https://github.com/DurhamAISafety/durhamaisafety.github.io)**  
-Website for Durham's AI Safety Initiative, providing information about the organization, events, and research. Built with modern web technologies and maintained collaboratively / open-source.
+#### Collaborative Projects
+- **[Ghost Marks in the Machine](https://github.com/DurhamAISafety/ghost-marks-in-the-machine)** (DAISI) - Research project investigating unlearning techniques in language models. Implements methods for removing specific knowledge from trained models and evaluates their effectiveness.
+- **[Durham AI Safety Initiative Website](https://github.com/DurhamAISafety/durhamaisafety.github.io)** (DAISI) - Website for Durham's AI Safety Initiative, providing information about the organization, events, and research.
+- **[Hands2Text](https://github.com/Theosdoor/Hands2Text-Durhack-23)** (DurHack '23) - Hackathon project converting sign language to text using computer vision and machine learning. Built during DurHack 2023 hackathon.
+- **[Context Eval](https://github.com/theaLilott/context_eval)** - Evaluation framework for testing language models on context understanding and reasoning tasks.
 
 ---
 
