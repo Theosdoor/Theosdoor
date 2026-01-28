@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Theo Farrell</h1>
+<h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=MSci+Student+%40+Durham+University;Mechanistic+Interpretability+Researcher;Durham+AI+Safety+Initiative;" alt="Typing SVG" /></a>
 </h3>
 
 <p align="center">
-Master's student specialising in mechanistic interpretability of neural networks at Durham University. Founded <a href="https://durhamaisafety.github.io/">Durham's AI Safety Initiative</a>.
+MSci student specialising in mechanistic interpretability of neural networks at Durham University. Founded <a href="https://durhamaisafety.github.io/">Durham's AI Safety Initiative</a>.
 </p>
 
 ---
