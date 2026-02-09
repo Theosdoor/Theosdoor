@@ -17,10 +17,6 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 *Farrell, Theo, Patrick Leask, and Noura Al Moubayed*  
 NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models  
 
-**[Challenges of Evaluating LLM Safety for User Welfare](https://arxiv.org/abs/2512.10687)**  
-*Kempermann, Manon, Sai Suresh Macharla Vasu, Mahalakshmi Raveenthiran, Theo Farrell, and Ingmar Weber*  
-arXiv preprint arXiv:2512.10687 (2025)  
-
 📊 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ)
 
 ---
