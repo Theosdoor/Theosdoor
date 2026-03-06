@@ -7,6 +7,11 @@
 MSci student specialising in mechanistic interpretability of neural networks at Durham University. Founded <a href="https://durhamaisafety.github.io/">Durham's AI Safety Initiative</a> (DAISI).
 </p>
 
+<p align="center">
+📄 CV: https://theosdoor.github.io/resume
+</p>
+
+
 ---
 
 ### 📄 Highlighted Publications
