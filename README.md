@@ -8,7 +8,9 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 </p>
 
 <p align="center">
-📄 CV: https://theosdoor.github.io/resume
+  🌐 Homepage: https://theosdoor.github.io
+  <br>
+  📄 CV: https://theosdoor.github.io/resume
 </p>
 
 
