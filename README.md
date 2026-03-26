@@ -13,10 +13,15 @@ MSci student specialising in mechanistic interpretability of neural networks at 
   📄 CV: https://theosdoor.github.io/resume
 </p>
 
+<p align="center">
+<a href="https://linktr.ee/theofarrell"><img alt="Linktree" src="https://img.shields.io/badge/-Linktree-1B5E20?style=flat-square&logo=linktree&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/theo-farrell-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+</p>
 
 ---
 
 ### 📄 Highlighted Publications
+<a href="https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
 
 
 
@@ -24,7 +29,7 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 *Farrell, Theo, Patrick Leask, and Noura Al Moubayed*  
 NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models  
 
-📊 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ)
+
 
 ---
 
@@ -95,12 +100,4 @@ Reinforcement learning implementation for training bipedal agents to walk.
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=000000)
   ![AR/VR](https://img.shields.io/badge/-AR%2FVR-333333?style=flat)
 
----
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://linktr.ee/theofarrell"><img alt="Linktree" src="https://img.shields.io/badge/-Linktree-1B5E20?style=flat-square&logo=linktree&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/theo-farrell-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-<a href="https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
-</p>
