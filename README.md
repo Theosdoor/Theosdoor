@@ -32,7 +32,7 @@ NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models
 
 **[Order by Scale](https://github.com/Theosdoor/order-by-scale)**  
 ![Information flow visualization](https://raw.githubusercontent.com/Theosdoor/order-by-scale/main/figures/attn-flow.png)  
-Implementation of research on relative-magnitude relational composition in attention-only transformers. Investigates how neural networks learn to order sequences by numerical scale, with analysis of learned feature representations and attention mechanisms.
+Implementation of research on relative-magnitude relational composition in attention-only transformers.
 
 **[Stance Classification](https://github.com/Theosdoor/stance-classification)**  
 ![Classification comparison](https://raw.githubusercontent.com/Theosdoor/stance-classification/main/results/exp4_test_final.png)  
@@ -40,24 +40,24 @@ NLP project implementing transformer-based models for detecting argumentative st
 
 **[Bipedal Walking with RL](https://github.com/Theosdoor/Bipedal-Walking-with-RL)**  
 ![Hardcore agent demo](https://raw.githubusercontent.com/Theosdoor/Bipedal-Walking-with-RL/main/hardcore_env/hardcore-video,episode=959,score=326.gif)  
-Reinforcement learning implementation for training bipedal agents to walk. Uses PPO and A3C algorithms in PyTorch with custom reward functions and training visualizations.
+Reinforcement learning implementation for training bipedal agents to walk. 
 
 ---
 
 ### 📚 Other Projects
 
 #### Solo Work
-- **[Cryptography Coursework](https://github.com/Theosdoor/Cryptography-Coursework)** - Implementation and analysis of cryptographic algorithms and protocols. Covers encryption techniques, security analysis, and practical applications.
-- **[Natural Computing Algorithms](https://github.com/Theosdoor/Natural-Computing-Algorithms)** - Exploration of bio-inspired and nature-based computational algorithms including genetic algorithms, neural networks, and swarm intelligence.
+- **[Cryptography Coursework](https://github.com/Theosdoor/Cryptography-Coursework)** - Implementation and analysis of cryptographic algorithms and protocols.
+- **[Natural Computing Algorithms](https://github.com/Theosdoor/Natural-Computing-Algorithms)** - Exploration of bio-inspired and nature-based computational algorithms including cuckoo search and negative selection.
 - **[Image Processing](https://github.com/Theosdoor/Image-Processing)** - Computer vision and image processing techniques using OpenCV and Python. Includes filtering, edge detection, and image transformations.
 - **[Data Compression Coursework](https://github.com/Theosdoor/Data-Compression-Coursework)** - Implementation of data compression algorithms including Huffman coding, LZW, and run-length encoding. Analyzes compression ratios and efficiency.
 - **[Data Cleaning and Analysis](https://github.com/Theosdoor/Data-Cleaning-and-Analysis-Coursework)** - Data preprocessing, cleaning, and statistical analysis using pandas and Python. Demonstrates data wrangling and visualization techniques.
-- **[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)** - Implementation and comparison of metaheuristic algorithms (genetic algorithms, simulated annealing, ant colony optimization) for the Traveling Salesman Problem.
-- **[KNN vs Logistic Regression](https://github.com/Theosdoor/KNN-vs-Logistic-Regression)** - Comparison of K-Nearest Neighbors and Logistic Regression classifiers on various datasets, with implementations from scratch and performance analysis.
+- **[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)** - Implementation and comparison of metaheuristic algorithms (genetic algorithm and ant colony optimization) for the Traveling Salesman Problem.
+- **[KNN vs Logistic Regression](https://github.com/Theosdoor/KNN-vs-Logistic-Regression)** - Comparison of K-Nearest Neighbors and Logistic Regression classifiers on various datasets, with implementations using scikit-learn and performance analysis.
 - **[EPQ Calculator](https://github.com/Theosdoor/EPQ_Calculator)** - My first major project, developed as part of my Extended Project Qualification (EPQ). A calculator application built to learn fundamental programming and UI design concepts.
 
 #### Collaborative Projects
-- **[Ghost Marks in the Machine](https://github.com/DurhamAISafety/ghost-marks-in-the-machine)** (DAISI) - Research project investigating unlearning techniques in language models. Implements methods for removing specific knowledge from trained models and evaluates their effectiveness.
+- **[Ghost Marks in the Machine](https://github.com/DurhamAISafety/ghost-marks-in-the-machine)** (DAISI) - Research project investigating watermarking LLM code output.
 - **[Durham AI Safety Initiative Website](https://github.com/DurhamAISafety/durhamaisafety.github.io)** (DAISI) - Website for Durham's AI Safety Initiative, providing information about the organization, events, and research.
 - **[Hands2Text](https://github.com/Theosdoor/Hands2Text-Durhack-23)** (DurHack '23) - Hackathon project converting sign language to text using computer vision and machine learning. Built during DurHack 2023 hackathon.
 - **[Context Eval](https://github.com/theaLilott/context_eval)** - Evaluation framework for testing language models on context understanding and reasoning tasks.
