@@ -8,7 +8,7 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 </p>
 
 <p align="center">
-  🌐 Homepage: https://theosdoor.github.io
+  🌐 Homepage & Project Portfolio: https://theosdoor.github.io
 </p>
 
 <p align="center">
@@ -17,22 +17,6 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 <a href="https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
 
 </p>
-
----
-
-### 🌟 Highlighted Projects
-
-**[Order by Scale](https://github.com/Theosdoor/order-by-scale)**  
-![Information flow visualization](https://raw.githubusercontent.com/Theosdoor/order-by-scale/main/figures/attn-flow.png)  
-Implementation of research on relative-magnitude relational composition in attention-only transformers.
-
-**[Bipedal Walking with RL](https://github.com/Theosdoor/Bipedal-Walking-with-RL)**  
-![Hardcore agent demo](https://raw.githubusercontent.com/Theosdoor/Bipedal-Walking-with-RL/main/hardcore_env/hardcore-video,episode=959,score=326.gif)  
-Reinforcement learning implementation for training bipedal agents to walk. 
-
-**[Stance Classification](https://github.com/Theosdoor/stance-classification)**  
-![Classification comparison](https://raw.githubusercontent.com/Theosdoor/stance-classification/main/results/exp4_test_final.png)  
-NLP project implementing transformer-based models for detecting argumentative stances in text. Uses fine-tuned BERT models with custom preprocessing and evaluation frameworks for multi-class stance detection.
 
 ---
 
