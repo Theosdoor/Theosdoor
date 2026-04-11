@@ -14,20 +14,9 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 <p align="center">
 <a href="https://linktr.ee/theofarrell"><img alt="Linktree" src="https://img.shields.io/badge/-Linktree-1B5E20?style=flat-square&logo=linktree&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/theo-farrell-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-</p>
-
----
-
-### 📄 Highlighted Publications
 <a href="https://scholar.google.com/citations?hl=en&user=wbiptScAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"></a>
 
-
-
-**[Order by Scale: Relative-Magnitude Relational Composition in Attention-Only Transformers](https://openreview.net/forum?id=vWRVzNtk7W)**  
-*Farrell, Theo, Patrick Leask, and Noura Al Moubayed*  
-NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models  
-
-
+</p>
 
 ---
 
@@ -37,33 +26,13 @@ NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models
 ![Information flow visualization](https://raw.githubusercontent.com/Theosdoor/order-by-scale/main/figures/attn-flow.png)  
 Implementation of research on relative-magnitude relational composition in attention-only transformers.
 
-**[Stance Classification](https://github.com/Theosdoor/stance-classification)**  
-![Classification comparison](https://raw.githubusercontent.com/Theosdoor/stance-classification/main/results/exp4_test_final.png)  
-NLP project implementing transformer-based models for detecting argumentative stances in text. Uses fine-tuned BERT models with custom preprocessing and evaluation frameworks for multi-class stance detection.
-
 **[Bipedal Walking with RL](https://github.com/Theosdoor/Bipedal-Walking-with-RL)**  
 ![Hardcore agent demo](https://raw.githubusercontent.com/Theosdoor/Bipedal-Walking-with-RL/main/hardcore_env/hardcore-video,episode=959,score=326.gif)  
 Reinforcement learning implementation for training bipedal agents to walk. 
 
----
-
-### 📚 Other Projects
-
-#### Solo Work
-- **[Cryptography Coursework](https://github.com/Theosdoor/Cryptography-Coursework)** - Implementation and analysis of cryptographic algorithms and protocols.
-- **[Natural Computing Algorithms](https://github.com/Theosdoor/Natural-Computing-Algorithms)** - Exploration of bio-inspired and nature-based computational algorithms including cuckoo search and negative selection.
-- **[Image Processing](https://github.com/Theosdoor/Image-Processing)** - Computer vision and image processing techniques using OpenCV and Python. Includes filtering, edge detection, and image transformations.
-- **[Data Compression Coursework](https://github.com/Theosdoor/Data-Compression-Coursework)** - Implementation of data compression algorithms including Huffman coding, LZW, and run-length encoding. Analyzes compression ratios and efficiency.
-- **[Data Cleaning and Analysis](https://github.com/Theosdoor/Data-Cleaning-and-Analysis-Coursework)** - Data preprocessing, cleaning, and statistical analysis using pandas and Python. Demonstrates data wrangling and visualization techniques.
-- **[Metaheuristics and TSP](https://github.com/Theosdoor/Metaheuristics-and-TSP)** - Implementation and comparison of metaheuristic algorithms (genetic algorithm and ant colony optimization) for the Traveling Salesman Problem.
-- **[KNN vs Logistic Regression](https://github.com/Theosdoor/KNN-vs-Logistic-Regression)** - Comparison of K-Nearest Neighbors and Logistic Regression classifiers on various datasets, with implementations using scikit-learn and performance analysis.
-- **[EPQ Calculator](https://github.com/Theosdoor/EPQ_Calculator)** - My first major project, developed as part of my Extended Project Qualification (EPQ). A calculator application built to learn fundamental programming and UI design concepts.
-
-#### Collaborative Projects
-- **[Ghost Marks in the Machine](https://github.com/DurhamAISafety/ghost-marks-in-the-machine)** (DAISI) - Research project investigating watermarking LLM code output.
-- **[Durham AI Safety Initiative Website](https://github.com/DurhamAISafety/durhamaisafety.github.io)** (DAISI) - Website for Durham's AI Safety Initiative, providing information about the organization, events, and research.
-- **[Hands2Text](https://github.com/Theosdoor/Hands2Text-Durhack-23)** (DurHack '23) - Hackathon project converting sign language to text using computer vision and machine learning. Built during DurHack 2023 hackathon.
-- **[Context Eval](https://github.com/theaLilott/context_eval)** - Evaluation framework for testing language models on context understanding and reasoning tasks.
+**[Stance Classification](https://github.com/Theosdoor/stance-classification)**  
+![Classification comparison](https://raw.githubusercontent.com/Theosdoor/stance-classification/main/results/exp4_test_final.png)  
+NLP project implementing transformer-based models for detecting argumentative stances in text. Uses fine-tuned BERT models with custom preprocessing and evaluation frameworks for multi-class stance detection.
 
 ---
 
