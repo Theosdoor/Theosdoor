@@ -8,7 +8,7 @@ MSci student specialising in mechanistic interpretability of neural networks at 
 </p>
 
 <p align="center">
-  🌐 Homepage & Project Portfolio: https://theosdoor.github.io
+  🌐 Homepage & Project Portfolio: https://theosdoor.github.io/#projects
 </p>
 
 <p align="center">
